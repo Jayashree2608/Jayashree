@@ -1,0 +1,6 @@
+{
+  "align_term_as_specified": 0.026849525049328804,
+  "anticipation_KL_as_specified": 0.0,
+  "align_term_if_p_c_detached_in_Eq9 (counterfactual)": 0.0,
+  "supervised_CE (added, not in Algorithm 1)": 0.5012505650520325
+}

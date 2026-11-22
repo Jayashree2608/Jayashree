@@ -1,0 +1,56 @@
+[
+  {
+    "correction": true,
+    "seed": 0,
+    "w_v_step1": 0.9984069466590881,
+    "R5_raw": 0.08620689809322357,
+    "R5_from_tprime": 1.0,
+    "chance": 0.06017241428606212,
+    "classes_used": 1
+  },
+  {
+    "correction": true,
+    "seed": 1,
+    "w_v_step1": 0.9983968138694763,
+    "R5_raw": 0.05113636329770088,
+    "R5_from_tprime": 1.0,
+    "chance": 0.06352272751741112,
+    "classes_used": 1
+  },
+  {
+    "correction": true,
+    "seed": 2,
+    "w_v_step1": 0.9985734820365906,
+    "R5_raw": 0.07954545319080353,
+    "R5_from_tprime": 1.0,
+    "chance": 0.05960227292962372,
+    "classes_used": 1
+  },
+  {
+    "correction": false,
+    "seed": 0,
+    "w_v_step1": 0.49230116605758667,
+    "R5_raw": 0.09195402264595032,
+    "R5_from_tprime": 0.09195402264595032,
+    "chance": 0.06017241428606212,
+    "classes_used": 2
+  },
+  {
+    "correction": false,
+    "seed": 1,
+    "w_v_step1": 0.45154276490211487,
+    "R5_raw": 0.09090909361839294,
+    "R5_from_tprime": 0.09090909361839294,
+    "chance": 0.06352272751741112,
+    "classes_used": 2
+  },
+  {
+    "correction": false,
+    "seed": 2,
+    "w_v_step1": 0.5238427519798279,
+    "R5_raw": 0.09090909361839294,
+    "R5_from_tprime": 0.09090909361839294,
+    "chance": 0.05960227292962372,
+    "classes_used": 1
+  }
+]

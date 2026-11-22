@@ -1,0 +1,12 @@
+{
+  "as_specified": {
+    "mean_w_v_step1": 0.9973628520965576,
+    "mean_cos_v_text_raw": -0.005750217009335756,
+    "mean_cos_v_tprime": 0.9998381733894348
+  },
+  "supervised": {
+    "mean_w_v_step1": 0.9819929599761963,
+    "mean_cos_v_text_raw": 0.12485473603010178,
+    "mean_cos_v_tprime": 0.9980267882347107
+  }
+}
