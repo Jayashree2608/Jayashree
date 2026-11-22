@@ -1,0 +1,11 @@
+{
+  "n": 14695,
+  "n_single_error": 14695,
+  "recall_by_mapped_cause": {
+    "conflict": 0.37345971563981045,
+    "hedge": 0.7753017641597029,
+    "omission": 0.5023212627669452,
+    "style": 0.9735755573905863
+  },
+  "conflict_auto_corrected": 1.0
+}
